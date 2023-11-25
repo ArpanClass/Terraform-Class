@@ -1,0 +1,5 @@
+
+
+# variable "resource" {
+#   type = any
+# }
